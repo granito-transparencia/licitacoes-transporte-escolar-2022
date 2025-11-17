@@ -1,1 +1,50 @@
-# licitacoes-transporte-escolar-2022
+🚌 Licitações de Transporte Escolar – Município de Granito (PE)
+
+Página desenvolvida para a Secretaria Municipal de Educação de Granito – PE, destinada à publicação das licitações de transporte escolar referentes ao exercício de 2022.
+O objetivo é garantir transparência e facilitar o acesso público às informações sobre os processos licitatórios, modalidades, valores e documentos oficiais.
+
+📄 Sobre o projeto
+
+Este projeto foi desenvolvido em HTML e CSS, sendo hospedado gratuitamente no GitHub Pages.
+A página exibe uma tabela com todas as licitações relacionadas ao transporte escolar realizadas pela Prefeitura Municipal de Granito no ano de 2022, contendo:
+
+-- Número do processo,
+Modalidade,
+Número da licitação,
+Objeto detalhado,
+Data,
+Valor contratado,
+Situação,
+Link direto para os arquivos PDF.
+
+⚖️ Conformidade legal
+
+A publicação atende aos requisitos da
+Resolução nº 156/2021 do Tribunal de Contas do Estado de Pernambuco (TCE-PE)
+,
+que determina as diretrizes para contratação, controle e transparência dos serviços públicos de transporte escolar.
+
+🧑‍💻 Tecnologias utilizadas
+
+HTML5
+
+CSS3
+
+GitHub Pages (para hospedagem gratuita)
+
+🏗️ Estrutura do projeto
+├── assets/          # Imagens e ícones (logos, ícone do PDF, etc.)
+├── css/             # Arquivos de estilo
+│   ├── style.css
+│   └── Responsive.css
+├── index.html       # Página principal
+└── README.md        # Este arquivo
+
+✍️ Autor
+
+Desenvolvido por: Michel Félix
+👨‍💻 Digitador da Prefeitura Municipal de Granito – PE
+
+🔗 LinkedIn
+
+📅 Ano: 2025
