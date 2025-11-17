@@ -6,16 +6,7 @@ O objetivo é garantir transparência e facilitar o acesso público às informa�
 📄 Sobre o projeto
 
 Este projeto foi desenvolvido em HTML e CSS, sendo hospedado gratuitamente no GitHub Pages.
-A página exibe uma tabela com todas as licitações relacionadas ao transporte escolar realizadas pela Prefeitura Municipal de Granito no ano de 2022, contendo:
-
--- Número do processo,
-Modalidade,
-Número da licitação,
-Objeto detalhado,
-Data,
-Valor contratado,
-Situação,
-Link direto para os arquivos PDF.
+A página exibe uma tabela com todas as licitações relacionadas ao transporte escolar realizadas pela Prefeitura Municipal de Granito no ano de 2022.
 
 ⚖️ Conformidade legal
 
@@ -45,6 +36,18 @@ GitHub Pages (para hospedagem gratuita)
 Desenvolvido por: Michel Félix
 👨‍💻 Digitador da Prefeitura Municipal de Granito – PE
 
-🔗 LinkedIn
+🔗 [**LinkedIn**](https://www.linkedin.com/in/michel-félix-65a579194/) 
 
-📅 Ano: 2025
+
+📅 **Ano:** 2025  
+🏛️ **Secretaria Municipal de Educação**
+
+---
+
+## 📜 Licença
+
+Este projeto é de uso público e institucional, com fins de **transparência administrativa**.  
+É proibido o uso para fins comerciais ou modificações que descaracterizem o conteúdo oficial.
+
+---
+
