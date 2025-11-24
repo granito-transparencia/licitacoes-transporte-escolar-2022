@@ -6,7 +6,7 @@ O objetivo é garantir transparência e facilitar o acesso público às informa�
 📄 Sobre o projeto
 
 Este projeto foi desenvolvido em HTML e CSS, sendo hospedado gratuitamente no GitHub Pages.
-A página exibe uma tabela com todas as licitações relacionadas ao transporte escolar realizadas pela Prefeitura Municipal de XXXXXXXX no ano de 2022.
+A página exibe uma tabela com todas as licitações relacionadas ao transporte escolar realizadas pela Prefeitura Municipal de Granito no ano de 2022.
 
 ⚖️ Conformidade legal
 
